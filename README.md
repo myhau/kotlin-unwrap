@@ -80,7 +80,7 @@ Apache 2.0 © Jaewe Heo
 
 
 
-[bintray-badge]: https://api.bintray.com/packages/myhau/maven/kotlin-unwrap/images/download.svg
-[bintray-version]: https://bintray.com/myhau/maven/kotlin-unwrap/_latestVersion
+[bintray-badge]: https://api.bintray.com/packages/myhau/kotlin-unwrap/kotlin-unwrap/images/download.svg
+[bintray-version]: https://bintray.com/myhau/kotlin-unwrap/kotlin-unwrap/_latestVersion
 [travis-badge]: https://travis-ci.org/myhau/kotlin-unwrap.svg?branch=master
 [travis-url]: https://travis-ci.org/myhau/kotlin-unwrap
