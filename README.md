@@ -76,7 +76,7 @@ $ ./gradlew check
 ## License
 
 Apache 2.0 © Jaewe Heo
-
+Apache 2.0 © Michał Fudała
 
 
 
