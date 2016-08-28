@@ -23,7 +23,7 @@ apply plugin: 'maven-publish'
 def _group = 'com.myhau'
 def _artifact = 'kotlin-unwrap'
 def _version = '0.3.0'
-def _githubUrl = 'https://github.com/importre/kotlin-unwrap'
+def _githubUrl = 'https://github.com/myhau/kotlin-unwrap'
 
 group _group
 version _version
@@ -72,7 +72,7 @@ bintray {
     // dryRun = true
 
     pkg {
-        repo = 'maven'
+        repo = 'kotlin-unwrap'
         name = _artifact
         licenses = ['Apache-2.0']
         vcsUrl = "${_githubUrl}.git"
